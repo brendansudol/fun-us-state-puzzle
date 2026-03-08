@@ -1,0 +1,966 @@
+{
+  "version": "2026-03-v1",
+  "scope": "contiguous-48",
+  "states": [
+    {
+      "code": "AL",
+      "name": "Alabama",
+      "slug": "alabama",
+      "abbr": "AL",
+      "region": "South",
+      "coastal": true,
+      "centroid": {
+        "lat": 32.739579,
+        "lon": -86.843447
+      },
+      "landAreaSqMi": 50651,
+      "population": 5157699,
+      "gdpUsd": 304936000000,
+      "gdpPerCapitaUsd": 59122,
+      "topExportFamily": {
+        "code": "336",
+        "label": "Transportation Equipment"
+      }
+    },
+    {
+      "code": "AZ",
+      "name": "Arizona",
+      "slug": "arizona",
+      "abbr": "AZ",
+      "region": "West",
+      "coastal": false,
+      "centroid": {
+        "lat": 34.203936,
+        "lon": -111.606345
+      },
+      "landAreaSqMi": 113655,
+      "population": 7582384,
+      "gdpUsd": 522767000000,
+      "gdpPerCapitaUsd": 68945,
+      "topExportFamily": {
+        "code": "334",
+        "label": "Computer & Electronic Products"
+      }
+    },
+    {
+      "code": "AR",
+      "name": "Arkansas",
+      "slug": "arkansas",
+      "abbr": "AR",
+      "region": "South",
+      "coastal": false,
+      "centroid": {
+        "lat": 34.895526,
+        "lon": -92.444626
+      },
+      "landAreaSqMi": 51992,
+      "population": 3088354,
+      "gdpUsd": 178606000000,
+      "gdpPerCapitaUsd": 57832,
+      "topExportFamily": {
+        "code": "311",
+        "label": "Food Products"
+      }
+    },
+    {
+      "code": "CA",
+      "name": "California",
+      "slug": "california",
+      "abbr": "CA",
+      "region": "West",
+      "coastal": true,
+      "centroid": {
+        "lat": 37.155177,
+        "lon": -119.543418
+      },
+      "landAreaSqMi": 155860,
+      "population": 39431263,
+      "gdpUsd": 3870379000000,
+      "gdpPerCapitaUsd": 98155,
+      "topExportFamily": {
+        "code": "334",
+        "label": "Computer & Electronic Products"
+      }
+    },
+    {
+      "code": "CO",
+      "name": "Colorado",
+      "slug": "colorado",
+      "abbr": "CO",
+      "region": "West",
+      "coastal": false,
+      "centroid": {
+        "lat": 38.993767,
+        "lon": -105.508712
+      },
+      "landAreaSqMi": 103637,
+      "population": 5957493,
+      "gdpUsd": 529627000000,
+      "gdpPerCapitaUsd": 88901,
+      "topExportFamily": {
+        "code": "334",
+        "label": "Computer & Electronic Products"
+      }
+    },
+    {
+      "code": "CT",
+      "name": "Connecticut",
+      "slug": "connecticut",
+      "abbr": "CT",
+      "region": "Northeast",
+      "coastal": true,
+      "centroid": {
+        "lat": 41.579864,
+        "lon": -72.746657
+      },
+      "landAreaSqMi": 4843,
+      "population": 3675069,
+      "gdpUsd": 345912000000,
+      "gdpPerCapitaUsd": 94124,
+      "topExportFamily": {
+        "code": "336",
+        "label": "Transportation Equipment"
+      }
+    },
+    {
+      "code": "DE",
+      "name": "Delaware",
+      "slug": "delaware",
+      "abbr": "DE",
+      "region": "South",
+      "coastal": true,
+      "centroid": {
+        "lat": 38.998566,
+        "lon": -75.441644
+      },
+      "landAreaSqMi": 1949,
+      "population": 1051917,
+      "gdpUsd": 98069000000,
+      "gdpPerCapitaUsd": 93229,
+      "topExportFamily": {
+        "code": "325",
+        "label": "Chemical Products"
+      }
+    },
+    {
+      "code": "FL",
+      "name": "Florida",
+      "slug": "florida",
+      "abbr": "FL",
+      "region": "South",
+      "coastal": true,
+      "centroid": {
+        "lat": 28.398978,
+        "lon": -82.5143
+      },
+      "landAreaSqMi": 53658,
+      "population": 23372215,
+      "gdpUsd": 1600811000000,
+      "gdpPerCapitaUsd": 68492,
+      "topExportFamily": {
+        "code": "336",
+        "label": "Transportation Equipment"
+      }
+    },
+    {
+      "code": "GA",
+      "name": "Georgia",
+      "slug": "georgia",
+      "abbr": "GA",
+      "region": "South",
+      "coastal": true,
+      "centroid": {
+        "lat": 32.629579,
+        "lon": -83.423511
+      },
+      "landAreaSqMi": 57718,
+      "population": 11180878,
+      "gdpUsd": 831828000000,
+      "gdpPerCapitaUsd": 74397,
+      "topExportFamily": {
+        "code": "336",
+        "label": "Transportation Equipment"
+      }
+    },
+    {
+      "code": "ID",
+      "name": "Idaho",
+      "slug": "idaho",
+      "abbr": "ID",
+      "region": "West",
+      "coastal": false,
+      "centroid": {
+        "lat": 44.348422,
+        "lon": -114.558854
+      },
+      "landAreaSqMi": 82645,
+      "population": 2001619,
+      "gdpUsd": 120958000000,
+      "gdpPerCapitaUsd": 60430,
+      "topExportFamily": {
+        "code": "334",
+        "label": "Computer & Electronic Products"
+      }
+    },
+    {
+      "code": "IL",
+      "name": "Illinois",
+      "slug": "illinois",
+      "abbr": "IL",
+      "region": "Midwest",
+      "coastal": false,
+      "centroid": {
+        "lat": 40.102875,
+        "lon": -89.152611
+      },
+      "landAreaSqMi": 55514,
+      "population": 12710158,
+      "gdpUsd": 1098346000000,
+      "gdpPerCapitaUsd": 86415,
+      "topExportFamily": {
+        "code": "333",
+        "label": "Machinery"
+      }
+    },
+    {
+      "code": "IN",
+      "name": "Indiana",
+      "slug": "indiana",
+      "abbr": "IN",
+      "region": "Midwest",
+      "coastal": false,
+      "centroid": {
+        "lat": 39.901314,
+        "lon": -86.291913
+      },
+      "landAreaSqMi": 35825,
+      "population": 6924275,
+      "gdpUsd": 499503000000,
+      "gdpPerCapitaUsd": 72138,
+      "topExportFamily": {
+        "code": "336",
+        "label": "Transportation Equipment"
+      }
+    },
+    {
+      "code": "IA",
+      "name": "Iowa",
+      "slug": "iowa",
+      "abbr": "IA",
+      "region": "Midwest",
+      "coastal": false,
+      "centroid": {
+        "lat": 42.070023,
+        "lon": -93.493349
+      },
+      "landAreaSqMi": 55854,
+      "population": 3241488,
+      "gdpUsd": 254032000000,
+      "gdpPerCapitaUsd": 78369,
+      "topExportFamily": {
+        "code": "333",
+        "label": "Machinery"
+      }
+    },
+    {
+      "code": "KS",
+      "name": "Kansas",
+      "slug": "kansas",
+      "abbr": "KS",
+      "region": "Midwest",
+      "coastal": false,
+      "centroid": {
+        "lat": 38.498546,
+        "lon": -98.38343
+      },
+      "landAreaSqMi": 81759,
+      "population": 2970606,
+      "gdpUsd": 228232000000,
+      "gdpPerCapitaUsd": 76830,
+      "topExportFamily": {
+        "code": "336",
+        "label": "Transportation Equipment"
+      }
+    },
+    {
+      "code": "KY",
+      "name": "Kentucky",
+      "slug": "kentucky",
+      "abbr": "KY",
+      "region": "South",
+      "coastal": false,
+      "centroid": {
+        "lat": 37.533684,
+        "lon": -85.29298
+      },
+      "landAreaSqMi": 39486,
+      "population": 4588372,
+      "gdpUsd": 279708000000,
+      "gdpPerCapitaUsd": 60960,
+      "topExportFamily": {
+        "code": "336",
+        "label": "Transportation Equipment"
+      }
+    },
+    {
+      "code": "LA",
+      "name": "Louisiana",
+      "slug": "louisiana",
+      "abbr": "LA",
+      "region": "South",
+      "coastal": true,
+      "centroid": {
+        "lat": 30.708319,
+        "lon": -91.604621
+      },
+      "landAreaSqMi": 43215,
+      "population": 4597740,
+      "gdpUsd": 314989000000,
+      "gdpPerCapitaUsd": 68510,
+      "topExportFamily": {
+        "code": "324",
+        "label": "Petroleum & Coal Products"
+      }
+    },
+    {
+      "code": "ME",
+      "name": "Maine",
+      "slug": "maine",
+      "abbr": "ME",
+      "region": "Northeast",
+      "coastal": true,
+      "centroid": {
+        "lat": 45.409284,
+        "lon": -68.666616
+      },
+      "landAreaSqMi": 30845,
+      "population": 1405012,
+      "gdpUsd": 93270000000,
+      "gdpPerCapitaUsd": 66384,
+      "topExportFamily": {
+        "code": "334",
+        "label": "Computer & Electronic Products"
+      }
+    },
+    {
+      "code": "MD",
+      "name": "Maryland",
+      "slug": "maryland",
+      "abbr": "MD",
+      "region": "South",
+      "coastal": true,
+      "centroid": {
+        "lat": 38.946658,
+        "lon": -76.674494
+      },
+      "landAreaSqMi": 9711,
+      "population": 6263220,
+      "gdpUsd": 515607000000,
+      "gdpPerCapitaUsd": 82323,
+      "topExportFamily": {
+        "code": "334",
+        "label": "Computer & Electronic Products"
+      }
+    },
+    {
+      "code": "MA",
+      "name": "Massachusetts",
+      "slug": "massachusetts",
+      "abbr": "MA",
+      "region": "Northeast",
+      "coastal": true,
+      "centroid": {
+        "lat": 42.15652,
+        "lon": -71.489592
+      },
+      "landAreaSqMi": 7801,
+      "population": 7136171,
+      "gdpUsd": 736296000000,
+      "gdpPerCapitaUsd": 103178,
+      "topExportFamily": {
+        "code": "334",
+        "label": "Computer & Electronic Products"
+      }
+    },
+    {
+      "code": "MI",
+      "name": "Michigan",
+      "slug": "michigan",
+      "abbr": "MI",
+      "region": "Midwest",
+      "coastal": false,
+      "centroid": {
+        "lat": 44.844177,
+        "lon": -85.660491
+      },
+      "landAreaSqMi": 56613,
+      "population": 10140459,
+      "gdpUsd": 673818000000,
+      "gdpPerCapitaUsd": 66448,
+      "topExportFamily": {
+        "code": "336",
+        "label": "Transportation Equipment"
+      }
+    },
+    {
+      "code": "MN",
+      "name": "Minnesota",
+      "slug": "minnesota",
+      "abbr": "MN",
+      "region": "Midwest",
+      "coastal": false,
+      "centroid": {
+        "lat": 46.315957,
+        "lon": -94.199604
+      },
+      "landAreaSqMi": 79632,
+      "population": 5793151,
+      "gdpUsd": 483162000000,
+      "gdpPerCapitaUsd": 83402,
+      "topExportFamily": {
+        "code": "339",
+        "label": "Miscellaneous Manufacturing"
+      }
+    },
+    {
+      "code": "MS",
+      "name": "Mississippi",
+      "slug": "mississippi",
+      "abbr": "MS",
+      "region": "South",
+      "coastal": true,
+      "centroid": {
+        "lat": 32.686471,
+        "lon": -89.656138
+      },
+      "landAreaSqMi": 46925,
+      "population": 2943045,
+      "gdpUsd": 151147000000,
+      "gdpPerCapitaUsd": 51357,
+      "topExportFamily": {
+        "code": "336",
+        "label": "Transportation Equipment"
+      }
+    },
+    {
+      "code": "MO",
+      "name": "Missouri",
+      "slug": "missouri",
+      "abbr": "MO",
+      "region": "Midwest",
+      "coastal": false,
+      "centroid": {
+        "lat": 38.350751,
+        "lon": -92.456782
+      },
+      "landAreaSqMi": 68746,
+      "population": 6245466,
+      "gdpUsd": 430114000000,
+      "gdpPerCapitaUsd": 68868,
+      "topExportFamily": {
+        "code": "325",
+        "label": "Chemical Products"
+      }
+    },
+    {
+      "code": "MT",
+      "name": "Montana",
+      "slug": "montana",
+      "abbr": "MT",
+      "region": "West",
+      "coastal": false,
+      "centroid": {
+        "lat": 47.051177,
+        "lon": -109.634817
+      },
+      "landAreaSqMi": 145550,
+      "population": 1137233,
+      "gdpUsd": 73255000000,
+      "gdpPerCapitaUsd": 64415,
+      "topExportFamily": {
+        "code": "311",
+        "label": "Food Products"
+      }
+    },
+    {
+      "code": "NE",
+      "name": "Nebraska",
+      "slug": "nebraska",
+      "abbr": "NE",
+      "region": "Midwest",
+      "coastal": false,
+      "centroid": {
+        "lat": 41.543305,
+        "lon": -99.811864
+      },
+      "landAreaSqMi": 76815,
+      "population": 2005465,
+      "gdpUsd": 181285000000,
+      "gdpPerCapitaUsd": 90395,
+      "topExportFamily": {
+        "code": "311",
+        "label": "Food Products"
+      }
+    },
+    {
+      "code": "NV",
+      "name": "Nevada",
+      "slug": "nevada",
+      "abbr": "NV",
+      "region": "West",
+      "coastal": false,
+      "centroid": {
+        "lat": 39.331093,
+        "lon": -116.615147
+      },
+      "landAreaSqMi": 109860,
+      "population": 3267467,
+      "gdpUsd": 245979000000,
+      "gdpPerCapitaUsd": 75281,
+      "topExportFamily": {
+        "code": "334",
+        "label": "Computer & Electronic Products"
+      }
+    },
+    {
+      "code": "NH",
+      "name": "New Hampshire",
+      "slug": "new-hampshire",
+      "abbr": "NH",
+      "region": "Northeast",
+      "coastal": true,
+      "centroid": {
+        "lat": 43.672794,
+        "lon": -71.584189
+      },
+      "landAreaSqMi": 8954,
+      "population": 1409032,
+      "gdpUsd": 114101000000,
+      "gdpPerCapitaUsd": 80978,
+      "topExportFamily": {
+        "code": "334",
+        "label": "Computer & Electronic Products"
+      }
+    },
+    {
+      "code": "NJ",
+      "name": "New Jersey",
+      "slug": "new-jersey",
+      "abbr": "NJ",
+      "region": "Northeast",
+      "coastal": true,
+      "centroid": {
+        "lat": 40.107274,
+        "lon": -74.665201
+      },
+      "landAreaSqMi": 7355,
+      "population": 9500851,
+      "gdpUsd": 806665000000,
+      "gdpPerCapitaUsd": 84904,
+      "topExportFamily": {
+        "code": "325",
+        "label": "Chemical Products"
+      }
+    },
+    {
+      "code": "NM",
+      "name": "New Mexico",
+      "slug": "new-mexico",
+      "abbr": "NM",
+      "region": "West",
+      "coastal": false,
+      "centroid": {
+        "lat": 34.434684,
+        "lon": -106.131618
+      },
+      "landAreaSqMi": 121313,
+      "population": 2130256,
+      "gdpUsd": 135010000000,
+      "gdpPerCapitaUsd": 63377,
+      "topExportFamily": {
+        "code": "334",
+        "label": "Computer & Electronic Products"
+      }
+    },
+    {
+      "code": "NY",
+      "name": "New York",
+      "slug": "new-york",
+      "abbr": "NY",
+      "region": "Northeast",
+      "coastal": true,
+      "centroid": {
+        "lat": 42.913397,
+        "lon": -75.596272
+      },
+      "landAreaSqMi": 47124,
+      "population": 19867248,
+      "gdpUsd": 2172010000000,
+      "gdpPerCapitaUsd": 109326,
+      "topExportFamily": {
+        "code": "334",
+        "label": "Computer & Electronic Products"
+      }
+    },
+    {
+      "code": "NC",
+      "name": "North Carolina",
+      "slug": "north-carolina",
+      "abbr": "NC",
+      "region": "South",
+      "coastal": true,
+      "centroid": {
+        "lat": 35.53971,
+        "lon": -79.130864
+      },
+      "landAreaSqMi": 48624,
+      "population": 11046024,
+      "gdpUsd": 788103000000,
+      "gdpPerCapitaUsd": 71347,
+      "topExportFamily": {
+        "code": "325",
+        "label": "Chemical Products"
+      }
+    },
+    {
+      "code": "ND",
+      "name": "North Dakota",
+      "slug": "north-dakota",
+      "abbr": "ND",
+      "region": "Midwest",
+      "coastal": false,
+      "centroid": {
+        "lat": 47.442174,
+        "lon": -100.460826
+      },
+      "landAreaSqMi": 68994,
+      "population": 796568,
+      "gdpUsd": 76043000000,
+      "gdpPerCapitaUsd": 95463,
+      "topExportFamily": {
+        "code": "324",
+        "label": "Petroleum & Coal Products"
+      }
+    },
+    {
+      "code": "OH",
+      "name": "Ohio",
+      "slug": "ohio",
+      "abbr": "OH",
+      "region": "Midwest",
+      "coastal": false,
+      "centroid": {
+        "lat": 40.41493,
+        "lon": -82.711997
+      },
+      "landAreaSqMi": 40859,
+      "population": 11883304,
+      "gdpUsd": 884834000000,
+      "gdpPerCapitaUsd": 74460,
+      "topExportFamily": {
+        "code": "333",
+        "label": "Machinery"
+      }
+    },
+    {
+      "code": "OK",
+      "name": "Oklahoma",
+      "slug": "oklahoma",
+      "abbr": "OK",
+      "region": "South",
+      "coastal": false,
+      "centroid": {
+        "lat": 35.590081,
+        "lon": -97.486779
+      },
+      "landAreaSqMi": 68597,
+      "population": 4095393,
+      "gdpUsd": 256689000000,
+      "gdpPerCapitaUsd": 62678,
+      "topExportFamily": {
+        "code": "324",
+        "label": "Petroleum & Coal Products"
+      }
+    },
+    {
+      "code": "OR",
+      "name": "Oregon",
+      "slug": "oregon",
+      "abbr": "OR",
+      "region": "West",
+      "coastal": true,
+      "centroid": {
+        "lat": 43.971712,
+        "lon": -120.622958
+      },
+      "landAreaSqMi": 95997,
+      "population": 4272371,
+      "gdpUsd": 318884000000,
+      "gdpPerCapitaUsd": 74639,
+      "topExportFamily": {
+        "code": "334",
+        "label": "Computer & Electronic Products"
+      }
+    },
+    {
+      "code": "PA",
+      "name": "Pennsylvania",
+      "slug": "pennsylvania",
+      "abbr": "PA",
+      "region": "Northeast",
+      "coastal": false,
+      "centroid": {
+        "lat": 40.904604,
+        "lon": -77.827523
+      },
+      "landAreaSqMi": 44742,
+      "population": 13078751,
+      "gdpUsd": 976361000000,
+      "gdpPerCapitaUsd": 74652,
+      "topExportFamily": {
+        "code": "325",
+        "label": "Chemical Products"
+      }
+    },
+    {
+      "code": "RI",
+      "name": "Rhode Island",
+      "slug": "rhode-island",
+      "abbr": "RI",
+      "region": "Northeast",
+      "coastal": true,
+      "centroid": {
+        "lat": 41.596485,
+        "lon": -71.52649
+      },
+      "landAreaSqMi": 1034,
+      "population": 1112308,
+      "gdpUsd": 77574000000,
+      "gdpPerCapitaUsd": 69741,
+      "topExportFamily": {
+        "code": "339",
+        "label": "Miscellaneous Manufacturing"
+      }
+    },
+    {
+      "code": "SC",
+      "name": "South Carolina",
+      "slug": "south-carolina",
+      "abbr": "SC",
+      "region": "South",
+      "coastal": true,
+      "centroid": {
+        "lat": 33.874178,
+        "lon": -80.854264
+      },
+      "landAreaSqMi": 30064,
+      "population": 5478831,
+      "gdpUsd": 327420000000,
+      "gdpPerCapitaUsd": 59761,
+      "topExportFamily": {
+        "code": "336",
+        "label": "Transportation Equipment"
+      }
+    },
+    {
+      "code": "SD",
+      "name": "South Dakota",
+      "slug": "south-dakota",
+      "abbr": "SD",
+      "region": "Midwest",
+      "coastal": false,
+      "centroid": {
+        "lat": 44.446796,
+        "lon": -100.238176
+      },
+      "landAreaSqMi": 75808,
+      "population": 924669,
+      "gdpUsd": 74034000000,
+      "gdpPerCapitaUsd": 80065,
+      "topExportFamily": {
+        "code": "311",
+        "label": "Food Products"
+      }
+    },
+    {
+      "code": "TN",
+      "name": "Tennessee",
+      "slug": "tennessee",
+      "abbr": "TN",
+      "region": "South",
+      "coastal": false,
+      "centroid": {
+        "lat": 35.85846,
+        "lon": -86.349634
+      },
+      "landAreaSqMi": 41225,
+      "population": 7227750,
+      "gdpUsd": 523032000000,
+      "gdpPerCapitaUsd": 72364,
+      "topExportFamily": {
+        "code": "336",
+        "label": "Transportation Equipment"
+      }
+    },
+    {
+      "code": "TX",
+      "name": "Texas",
+      "slug": "texas",
+      "abbr": "TX",
+      "region": "South",
+      "coastal": true,
+      "centroid": {
+        "lat": 31.434703,
+        "lon": -99.281824
+      },
+      "landAreaSqMi": 261260,
+      "population": 31290831,
+      "gdpUsd": 2583866000000,
+      "gdpPerCapitaUsd": 82576,
+      "topExportFamily": {
+        "code": "324",
+        "label": "Petroleum & Coal Products"
+      }
+    },
+    {
+      "code": "UT",
+      "name": "Utah",
+      "slug": "utah",
+      "abbr": "UT",
+      "region": "West",
+      "coastal": false,
+      "centroid": {
+        "lat": 39.334993,
+        "lon": -111.656333
+      },
+      "landAreaSqMi": 82596,
+      "population": 3503613,
+      "gdpUsd": 281329000000,
+      "gdpPerCapitaUsd": 80297,
+      "topExportFamily": {
+        "code": "334",
+        "label": "Computer & Electronic Products"
+      }
+    },
+    {
+      "code": "VT",
+      "name": "Vermont",
+      "slug": "vermont",
+      "abbr": "VT",
+      "region": "Northeast",
+      "coastal": false,
+      "centroid": {
+        "lat": 44.058954,
+        "lon": -72.671017
+      },
+      "landAreaSqMi": 9217,
+      "population": 648493,
+      "gdpUsd": 43534000000,
+      "gdpPerCapitaUsd": 67131,
+      "topExportFamily": {
+        "code": "339",
+        "label": "Miscellaneous Manufacturing"
+      }
+    },
+    {
+      "code": "VA",
+      "name": "Virginia",
+      "slug": "virginia",
+      "abbr": "VA",
+      "region": "South",
+      "coastal": true,
+      "centroid": {
+        "lat": 37.522251,
+        "lon": -78.668194
+      },
+      "landAreaSqMi": 39481,
+      "population": 8811195,
+      "gdpUsd": 719897000000,
+      "gdpPerCapitaUsd": 81703,
+      "topExportFamily": {
+        "code": "334",
+        "label": "Computer & Electronic Products"
+      }
+    },
+    {
+      "code": "WA",
+      "name": "Washington",
+      "slug": "washington",
+      "abbr": "WA",
+      "region": "West",
+      "coastal": true,
+      "centroid": {
+        "lat": 47.407324,
+        "lon": -120.5758
+      },
+      "landAreaSqMi": 66457,
+      "population": 7958180,
+      "gdpUsd": 807865000000,
+      "gdpPerCapitaUsd": 101514,
+      "topExportFamily": {
+        "code": "336",
+        "label": "Transportation Equipment"
+      }
+    },
+    {
+      "code": "WV",
+      "name": "West Virginia",
+      "slug": "west-virginia",
+      "abbr": "WV",
+      "region": "South",
+      "coastal": false,
+      "centroid": {
+        "lat": 38.647285,
+        "lon": -80.618327
+      },
+      "landAreaSqMi": 24041,
+      "population": 1769979,
+      "gdpUsd": 102152000000,
+      "gdpPerCapitaUsd": 57714,
+      "topExportFamily": {
+        "code": "325",
+        "label": "Chemical Products"
+      }
+    },
+    {
+      "code": "WI",
+      "name": "Wisconsin",
+      "slug": "wisconsin",
+      "abbr": "WI",
+      "region": "Midwest",
+      "coastal": false,
+      "centroid": {
+        "lat": 44.630907,
+        "lon": -89.709392
+      },
+      "landAreaSqMi": 54168,
+      "population": 5960975,
+      "gdpUsd": 428447000000,
+      "gdpPerCapitaUsd": 71875,
+      "topExportFamily": {
+        "code": "333",
+        "label": "Machinery"
+      }
+    },
+    {
+      "code": "WY",
+      "name": "Wyoming",
+      "slug": "wyoming",
+      "abbr": "WY",
+      "region": "West",
+      "coastal": false,
+      "centroid": {
+        "lat": 42.989659,
+        "lon": -107.544392
+      },
+      "landAreaSqMi": 97089,
+      "population": 587618,
+      "gdpUsd": 51991000000,
+      "gdpPerCapitaUsd": 88478,
+      "topExportFamily": {
+        "code": "324",
+        "label": "Petroleum & Coal Products"
+      }
+    }
+  ]
+}

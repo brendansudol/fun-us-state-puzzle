@@ -1,0 +1,16 @@
+{
+  "dataVersion": "2026-03-v1",
+  "metricLabels": {
+    "population": "Population",
+    "gdpPerCapitaUsd": "GDP per capita",
+    "landAreaSqMi": "Land area",
+    "topExportFamily": "Top export family"
+  },
+  "sourceNotes": [
+    "Population: Census 2024 state population estimates snapshot",
+    "GDP: BEA 2023 current-dollar GDP by state snapshot",
+    "Exports: pinned Trade.gov state export family snapshot",
+    "Map: Census cartographic boundary data via us-atlas",
+    "Centroids/area: Census Gazetteer 2025 state file"
+  ]
+}

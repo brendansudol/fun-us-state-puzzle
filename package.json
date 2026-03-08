@@ -1,0 +1,30 @@
+{
+  "name": "fun-us-state-puzzle",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "generate:data": "node scripts/optional-build-state-data.mjs",
+    "validate:data": "node scripts/validate-generated-data.mjs"
+  },
+  "dependencies": {
+    "d3-geo": "3.1.1",
+    "next": "14.2.35",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "topojson-client": "3.1.0",
+    "us-atlas": "3.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "20.14.10",
+    "@types/react": "18.3.3",
+    "@types/react-dom": "18.3.0",
+    "jsdom": "24.1.0",
+    "typescript": "5.5.4",
+    "vitest": "2.0.3"
+  }
+}
